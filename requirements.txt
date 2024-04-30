@@ -1,2 +1,2 @@
 AstroidsAvoid requires pygame.
-[Link to pygame repository](https://github.com/pygame/)
+https://github.com/pygame/
